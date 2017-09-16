@@ -1,3 +1,5 @@
+Section 4 from the Stephen Grider Udemy course Modern React with Redux
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
